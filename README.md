@@ -22,8 +22,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=git,pytorch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,pytorch,matlab)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=verilog,matlab)](https://skillicons.dev)
 
-<br />
